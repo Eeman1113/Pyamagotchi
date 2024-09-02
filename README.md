@@ -1,0 +1,2 @@
+# Pyamagotchi
+Taamagotchi In Python
